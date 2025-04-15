@@ -1,4 +1,3 @@
-# PregaBot
 # README: Intelligent Pregnancy Chatbot
 
 ## Overview  
